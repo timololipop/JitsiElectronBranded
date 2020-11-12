@@ -8,23 +8,23 @@ export default {
     /**
      * The URL to the source code repository.
      */
-    sourceURL: 'https://github.com/jitsi/jitsi-meet-electron',
+    sourceURL: 'https://github.com/timololipop/JitsiElectronBranded',
 
     /**
      * Application name.
      */
-    appName: 'Jitsi Meet',
+    appName: 'Corgos-Meet',
 
     /**
     * The prefix for application protocol.
     * You will also need to replace this in package.json.
     */
-    appProtocolPrefix: 'jitsi-meet',
+    appProtocolPrefix: 'corgos-meet',
 
     /**
      * The default server URL of Jitsi Meet Deployment that will be used.
      */
-    defaultServerURL: 'https://meet.jit.si',
+    defaultServerURL: 'https://jitsi.corgos.de',
 
     /**
      * The default server Timeout in seconds.
